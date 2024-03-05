@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/thucvn/infinity-utils/issues"
   },
-  "homepage": "https://github.com/thucvn/infinity-utils#readme"
+  "homepage": "https://github.com/thucvn/infinity-utils#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
