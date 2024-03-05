@@ -1,6 +1,6 @@
 {
   "name": "infinity-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utils libraries for your js app",
   "main": "index.js",
   "scripts": {
